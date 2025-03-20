@@ -3,7 +3,7 @@
 function App() {
   return (
     <>
-    <h1>Bhargav</h1>
+    <h1>Bhrgav</h1>
     </>
   );
 }
